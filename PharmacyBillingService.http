@@ -1,0 +1,6 @@
+@PharmacyBillingService_HostAddress = http://localhost:5256
+
+GET {{PharmacyBillingService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
