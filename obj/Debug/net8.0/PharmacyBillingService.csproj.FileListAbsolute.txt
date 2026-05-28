@@ -140,3 +140,5 @@ D:\Thaydai\PharmacyBillingService\PharmacyBillingService\obj\Debug\net8.0\Pharma
 D:\Thaydai\PharmacyBillingService\PharmacyBillingService\obj\Debug\net8.0\ref\PharmacyBillingService.dll
 D:\Thaydai\PharmacyBillingService\PharmacyBillingService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Thaydai\PharmacyBillingService\PharmacyBillingService\obj\Debug\net8.0\PharmacyBillingService.sourcelink.json
+D:\Thaydai\PharmacyBillingService\PharmacyBillingService\bin\Debug\net8.0\Npgsql.dll
+D:\Thaydai\PharmacyBillingService\PharmacyBillingService\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

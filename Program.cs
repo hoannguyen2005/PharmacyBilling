@@ -15,7 +15,7 @@ builder.Services.AddControllers();
 
 // Add DbContext
 builder.Services.AddDbContext<PharmacyDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Add Helpers & Event Publisher
 builder.Services.AddSingleton<JwtHelper>();
